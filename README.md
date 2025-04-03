@@ -1,4 +1,5 @@
 ## ** Project-Casino-Java**
+https://www.figma.com/design/yxoFVXHME6TvHkld4R2gPg/Untitled?node-id=0-1&p=f&t=sbFx0y6KabHvqMeA-0+
 
 # Репозиторий для проекта
 **Описания**
